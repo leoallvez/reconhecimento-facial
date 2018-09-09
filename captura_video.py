@@ -19,4 +19,4 @@ while (True) :
 #liberando memoria
 camera.release()
 #fechando todas janelas
-camera.detroyAllWindows()
+cv2.detroyAllWindows()
