@@ -1,1 +1,1 @@
-# reconhecimento-facial
+# visao-computacional
