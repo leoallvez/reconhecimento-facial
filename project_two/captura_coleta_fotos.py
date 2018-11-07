@@ -5,6 +5,7 @@ classificador = cv2.CascadeClassifier("haarcascade-frontalface-default.xml")
 camera = cv2.VideoCapture(0)
 
 amostra = 1
+
 numeroAmostras = 25;
 id = input('Digite o seu identificador: ')
 # tamanho da imagens que serão coletadas
